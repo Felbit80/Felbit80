@@ -1,19 +1,19 @@
 # Bem-vindo ao meu perfil
 
-Sou **Vitor**, desenvolvedor full-stack em estágio com paixão por desenvolvimento frontend e mobile. Tenho forte interesse em gestão de projetos, trabalho em equipe e engenharia de software.
+Sou **Vitor**, desenvolvedor full-stack em estágio com paixão por desenvolvimento mobile. Tenho forte interesse em gestão de projetos, trabalho em equipe e engenharia de software.
 
 ## 🛠️ Minhas Competências
 
 - **Frontend Development** - React, JavaScript, HTML/CSS
 - **Mobile Development** - React Native
-- **Organização Profissional** - Gestão de projetos e equipes
-- **Full-Stack Development** - Backend, APIs e banco de dados
+- **Organização Profissional** - Gestão de projetos e tarefas
+- **Full-Stack Development** - Typescript, NodeJS, API Rest, MySQL e PostgreSQL
 
 ## 🎯 Meus Interesses
 
-- Desenvolvimento mobile
-- Gestão de projetos e liderança de equipes
-- Engenharia de software
+- Desenvolvimento de sistemas
+- Gerenciamento de processos
+- Qualidade de software
 
 ## 💬 Entre em Contato
 
@@ -24,20 +24,20 @@ Sou **Vitor**, desenvolvedor full-stack em estágio com paixão por desenvolvime
 
 # Welcome to my profile
 
-I'm **Vitor**, a full-stack developer intern passionate about frontend and mobile development. I have a strong interest in project management, teamwork, and software engineering.
+I'm **Vitor**, a full-stack developer intern passionate about mobile development. I have a strong interest in project management, teamwork, and software engineering.
 
 ## 🛠️ My Skills
 
 - **Frontend Development** - React, JavaScript, HTML/CSS
 - **Mobile Development** - React Native
 - **Professional Organization** - Project and team management
-- **Full-Stack Development** - Backend, APIs, and databases
+- **Full-Stack Development** - Typescript, NodeJS, API Rest, MySQL and PostgreSQL
 
 ## 🎯 My Interests
 
-- Mobile development
-- Project management and team leadership
-- Software engineering
+- Systems development
+- Process management
+- Software quality (QA)
 
 ## 💬 Get in Touch
 
